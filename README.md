@@ -12,7 +12,7 @@ IRkernel::installspec()  # to register the kernel in the current R installation
 `k-clip.ipynb`,
 `social_bridges.ipynb`
 
-Main dependencies
+Main dependencies:
 ```
 networkx
 pandas
@@ -25,7 +25,7 @@ pygraphviz (if using graphviz_layout)
 `psm.ipynb`,
 `figs.ipynb`
 
-Main dependencies
+Main dependencies:
 ```
 dplyr
 ggplot2
