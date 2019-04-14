@@ -8,3 +8,14 @@ install.packages('IRkernel')
 IRkernel::installspec()  # to register the kernel in the current R installation
 ```
 
+Python implementation:
+k-clip.ipynb
+social_bridges.ipynb
+
+
+
+R implementation:
+ols.ipynb
+psm.ipynb
+figs.ipynb
+
