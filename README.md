@@ -1,8 +1,8 @@
 # structural diversity
 
-##### To execute the tutorial, make sure you have Python, R/R studio and Jupyter Notebook installed.
+###### To execute the tutorial, make sure you have Python, R/RStudio and Jupyter Notebook installed.
 
-##### To run R in Jupyter Notebook requires [IRkernel](https://github.com/IRkernel/IRkernel). This package is available on CRAN and you can install it in R studio Console by:
+###### To run R in Jupyter Notebook requires [IRkernel](https://github.com/IRkernel/IRkernel). This package is available on CRAN and you can install it in RStudio Console by:
 
 
 ```
