@@ -8,8 +8,7 @@ install.packages('IRkernel')
 IRkernel::installspec()  # to register the kernel in the current R installation
 ```
 
-#### Python implementation:
---
+- Python implementation:
 k-clip.ipynb,
 social_bridges.ipynb
 
@@ -21,8 +20,7 @@ matplotlib
 pygraphviz (if using graphviz_layout)
 ```
 
-#### R implementation:
--
+- R implementation:
 ols.ipynb,
 psm.ipynb,
 figs.ipynb
