@@ -1,8 +1,8 @@
 # structural diversity
 
-To execute the tutorial, make sure you have Python 3, R/RStudio and Jupyter installed.
+To execute the tutorial, make sure you have Python 3, R/R-Studio and Jupyter installed.
 
-To run R script in Jupyter, [IRkernel](https://github.com/IRkernel/IRkernel) is required. This package is available on CRAN and you can install it in RStudio Console by:
+To run R script in Jupyter, [IRkernel](https://github.com/IRkernel/IRkernel) is required. This package is available on CRAN and you can install it in R-Studio Console by:
 ```
 install.packages('IRkernel')
 IRkernel::installspec()  # to register the kernel in the current R installation
