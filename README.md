@@ -20,7 +20,7 @@ matplotlib
 pygraphviz (if using graphviz_layout)
 ```
 
-##### 2. R implementation:
+#### 2. R implementation:
 `ols.ipynb`,
 `psm.ipynb`,
 `figs.ipynb`
