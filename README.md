@@ -11,7 +11,8 @@ IRkernel::installspec()  # to register the kernel in the current R installation;
 ```
 
 #### 1. Python implementation:
-`k-clip.ipynb`,
+`k-clip.ipynb`: illustration of k-clip decomposition
+
 `social_bridges.ipynb`
 
 Main dependencies:
