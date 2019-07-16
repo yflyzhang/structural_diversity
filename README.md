@@ -13,7 +13,7 @@ IRkernel::installspec()  # to register the kernel in the current R installation;
 #### 1. Python implementation:
 `k-clip.ipynb`: illustration of k-clip decomposition
 
-`social_bridges.ipynb`
+`social_bridges.ipynb`: illustration of social bridges
 
 Main dependencies:
 ```
@@ -24,9 +24,11 @@ pygraphviz (if using graphviz_layout)
 ```
 
 #### 2. R implementation:
-`ols.ipynb`,
-`psm.ipynb`,
-`figs.ipynb`
+`ols.ipynb`: ordinary least squares (OLS) regressions
+
+`psm.ipynb`: propensity score matching (PSM)
+
+`figs.ipynb`: figure reproduction
 
 Main dependencies:
 ```
