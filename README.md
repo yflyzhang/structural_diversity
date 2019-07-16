@@ -6,7 +6,7 @@ To run R script in Jupyter, [IRkernel](https://github.com/IRkernel/IRkernel) is 
 ```
 install.packages('IRkernel')
 IRkernel::installspec()  # to register the kernel in the current R installation; 
-# \tab \tab if it doesn't work, you may enter R from your system terminal and then try this command again
+                         # if it doesn't work, you may enter R from your system terminal and then try this command again
 ```
 
 #### 1. Python implementation:
