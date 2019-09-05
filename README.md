@@ -1,4 +1,4 @@
-# structural diversity
+# Social context diversity and online social reputations
 
 To execute the tutorial, make sure you have Python 3, R/R-Studio and Jupyter installed.
 
