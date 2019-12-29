@@ -1,5 +1,4 @@
-# The strength of social context diversity in online social
-networks
+# The strength of social context diversity in online social networks
 
 To execute the tutorial, make sure you have Python 3, R/R-Studio and Jupyter installed.
 
