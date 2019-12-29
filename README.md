@@ -1,4 +1,5 @@
-# Social context diversity and online social reputations
+# The strength of social context diversity in online social
+networks
 
 To execute the tutorial, make sure you have Python 3, R/R-Studio and Jupyter installed.
 
